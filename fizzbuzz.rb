@@ -6,7 +6,7 @@ def fizzbuzz(init)
       return "Fizz"
     end
   elsif init % 5 == 0
-    return "Buzz"  
+    return "Buzz"
   else
     return nil
   end
