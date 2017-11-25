@@ -1,3 +1,3 @@
 def fizzbuzz(init)
-  
+
 end
